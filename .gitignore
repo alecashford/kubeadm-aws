@@ -1,2 +1,4 @@
-*.tfstate
-*.backup
+.terraform/
+*terraform*
+*k8s-test*
+*.pub
